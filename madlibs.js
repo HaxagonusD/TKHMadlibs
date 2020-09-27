@@ -1,4 +1,5 @@
-const prompt = require("prompt-sync")();
+// uncomment this to run in node 
+// const prompt = require("prompt-sync")();
 
 const madlibs = () => {
   let player = prompt("Would you like Story One or Story Two?");
